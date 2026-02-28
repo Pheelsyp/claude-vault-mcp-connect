@@ -1,0 +1,18 @@
+{
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "sidebarMode": "chat",
+    "coworkScheduledTasksEnabled": true
+  },
+  "mcpServers": {
+    "vault": {
+      "command": "/Users/laeshweyiphyoe/ACE/MCP-VAULT/vault-mcp-server",
+      "args": ["stdio"],
+      "env": {
+        "VAULT_ADDR": "http://localhost:8200",
+        "VAULT_TOKEN": "dev-root-token",
+        "VAULT_NAMESPACE": ""
+      }
+    }
+  }
+}
