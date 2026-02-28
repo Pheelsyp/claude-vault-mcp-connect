@@ -55,9 +55,6 @@ Root Token: dev-root-token
 ### Read a Secret
 ![Read Secret](assets/read-secret.png)
 
-### Searching for MCP
-![Searching MCP](assets/searching-mcp.png)
-
 ### Test Value
 ![Test Value](assets/test-value.png)
 
